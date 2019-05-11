@@ -1,2 +1,2 @@
 # Smart_hash
-# Smart_hash
+used in CTF
